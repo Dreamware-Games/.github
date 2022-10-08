@@ -1,1 +1,1 @@
-<img src="../images/Dreamware Games Logo Black.png" />
+<img src="images/Dreamware Games Logo Black.png" />
