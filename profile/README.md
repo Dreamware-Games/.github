@@ -1,9 +1,11 @@
-<img src="images/Dreamware Games Logo Black.png" />
 
-https://dreamware.games/
+![Dreamware Games](../images/Dreamware Games Logo White.png#gh-dark-mode-only)
+![Dreamware Games](../images/Dreamware Games Logo Black.png#gh-light-mode-only)
 
-Recently founded, currently one man indie game development company with a simple ambition: Making accessible games that everyone can play, irregardless of any disability or impairment!
+[https://dreamware.games/](https://dreamware.games/)
+
+One man indie game development company with a simple ambition: Making accessible games that everyone can play, irregardless of any disability or impairment!
 
 Established August 2022
 <br>
-Dreamware Games AS™
+Dreamware Games LLC
