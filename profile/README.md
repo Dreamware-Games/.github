@@ -4,7 +4,7 @@
 
 [https://dreamware.games/](https://dreamware.games/)
 
-One man indie game development company with a simple ambition: Making accessible games that everyone can play, irregardless of any disability or impairment!
+One man indie game development company with a simple ambition: Making fun games for everyone.
 
 Established August 2022
 <br>
