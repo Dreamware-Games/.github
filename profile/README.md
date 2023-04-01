@@ -1,6 +1,6 @@
 
-![Dreamware Games](./images/Main%20Logo%20White.png#gh-dark-mode-only)
-![Dreamware Games](./images/Main%20Logo%20Black.png#gh-light-mode-only)
+![Dreamware Games](./images/Main%20Logo%20Large%20White.png#gh-dark-mode-only)
+![Dreamware Games](./images/Main%20Logo%20Large%20Black.png#gh-light-mode-only)
 
 [https://dreamware.games/](https://dreamware.games/)
 
