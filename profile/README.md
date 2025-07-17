@@ -11,5 +11,7 @@ One man indie game development company with a simple ambition: Making fun games 
 
 [![Arcade Classics](https://github.com/Dreamware-Games/.github/blob/master/images/Arcade%20Classics.png)](https://store.steampowered.com/app/2170700/Arcade_Classics/)
 
+---
+
 Established August 2022  
 Dreamware Games LLC
