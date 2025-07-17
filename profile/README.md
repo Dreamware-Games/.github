@@ -5,8 +5,6 @@
 
 One man indie game development company with a simple ambition: Making fun games for everyone.
 
-### Our published games
-
 [![NinjaThea](https://github.com/Dreamware-Games/.github/blob/master/images/NinjaThea.png)](https://store.steampowered.com/app/2005800/NinjaThea/)
 
 [![NinjaThea 2](https://github.com/Dreamware-Games/.github/blob/master/images/NinjaThea%202.png)](https://store.steampowered.com/app/2567920/NinjaThea_2/)
