@@ -5,11 +5,11 @@
 
 One man indie game development company with a simple ambition: Making fun games for everyone.
 
-[![NinjaThea](https://github.com/Dreamware-Games/.github/blob/master/images/NinjaThea.png)](https://store.steampowered.com/app/2005800/NinjaThea/)
+[![NinjaThea](https://github.com/Dreamware-Games/.github/blob/master/images/NinjaThea%20Steam%20Promo.png)](https://store.steampowered.com/app/2005800/NinjaThea/)
 
-[![NinjaThea 2](https://github.com/Dreamware-Games/.github/blob/master/images/NinjaThea%202.png)](https://store.steampowered.com/app/2567920/NinjaThea_2/)
+[![NinjaThea 2](https://github.com/Dreamware-Games/.github/blob/master/images/NinjaThea%202%20Steam%20Promo.png)](https://store.steampowered.com/app/2567920/NinjaThea_2/)
 
-[![Arcade Classics](https://github.com/Dreamware-Games/.github/blob/master/images/Arcade%20Classics.png)](https://store.steampowered.com/app/2170700/Arcade_Classics/)
+[![Arcade Classics](https://github.com/Dreamware-Games/.github/blob/master/images/Arcade%20Classics%20Steam%20Promo.png)](https://store.steampowered.com/app/2170700/Arcade_Classics/)
 
 ---
 
